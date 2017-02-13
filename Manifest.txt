@@ -1,0 +1,8 @@
+.autotest
+History.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+bin/minitest/trump
+lib/minitest/trump.rb
+test/test_minitest/trump.rb
