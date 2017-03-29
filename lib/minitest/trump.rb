@@ -12,21 +12,21 @@ module Minitest
     end
   end
 
-  class UnexpectedError
-    alias old_result_label result_label
-    def result_label
-      "Alt-Fact"
-    end
-  end
-
   class Skip
+    def result_code
+      "GOLF"
+    end
+
     alias old_result_label result_label
     def result_label
       "Golfing"
     end
+  end
 
-    def result_code
-      "GOLF"
+  class UnexpectedError
+    alias old_result_label result_label
+    def result_label
+      "Alt-Fact"
     end
   end
 end
