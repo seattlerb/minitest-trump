@@ -18,4 +18,15 @@ module Minitest
       "Alt-Fact"
     end
   end
+
+  class Skip
+    alias old_result_label result_label
+    def result_label
+      "Golfing"
+    end
+
+    def result_code
+      "GOLF"
+    end
+  end
 end

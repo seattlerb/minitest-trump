@@ -17,6 +17,14 @@ class TestMinitest::TestTrump < Minitest::Test
     assert_equal "Alt-Fact", e.result_label
   end
 
+  def test_golf_swing
+    skip "Responsibility"
+  rescue ::MiniTest::Skip => e
+    e = Minitest::Skip.new(e)
+    assert_equal "Golfing", e.result_label
+    assert_equal "GOLF", e.result_code
+  end
+
   if ENV["ALL"] then
     def test_show_failure
       assert_equal 1, 2
