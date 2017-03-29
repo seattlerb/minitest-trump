@@ -6,12 +6,13 @@ rdoc :: http://docs.seattlerb.org/minitest-trump
 == DESCRIPTION:
 
 For when the reality of your tests is just too much to bear, turn your
-failures into fake news and errors into alt-facts.
+failures into fake news and errors into alt-facts, or golf.
 
 == FEATURES/PROBLEMS:
 
 * Turns failures into Fake News.
 * Turns errors into Alt-Facts.
+* Turns skips into Golf.
 * May alter your perception of reality, and not for the better.
 
 == SYNOPSIS:
