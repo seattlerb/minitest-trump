@@ -1,3 +1,5 @@
+NOTE: this project, like that infamous administration, is EOL'd.
+
 === 3.0.0 / 2019-06-06
 
 * 1 minor enhancement:

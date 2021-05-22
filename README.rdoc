@@ -5,6 +5,8 @@ rdoc :: http://docs.seattlerb.org/minitest-trump
 
 == DESCRIPTION:
 
+NOTE: this project, like that infamous administration, is EOL'd.
+
 For when the reality of your tests is just too much to bear, turn your
 failures into fake news and errors into alt-facts, or golf.
 
