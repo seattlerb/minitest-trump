@@ -6,7 +6,7 @@ module TestMinitest; end
 class TestMinitest::TestTrump < Minitest::Test
   def test_golf_swing
     skip "Responsibility"
-  rescue ::MiniTest::Skip => e
+  rescue ::Minitest::Skip => e
     assert_equal "Golfing", e.result_label
     assert_equal "GOLF", e.result_code
   end
