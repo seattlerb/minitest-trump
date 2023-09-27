@@ -1,3 +1,13 @@
+FUCK: this project, like that infamous administration, might not be EOL'd.
+
+Shall we start a betting pool?
+
+=== 3.0.1 / 2023-09-27
+
+* 1 bug fix:
+
+  * Fixed bad reference to MiniTest. HAH!
+
 NOTE: this project, like that infamous administration, is EOL'd.
 
 === 3.0.0 / 2019-06-06
@@ -11,4 +21,3 @@ NOTE: this project, like that infamous administration, is EOL'd.
 * 1 major enhancement
 
   * Birthday!
-
