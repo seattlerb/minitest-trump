@@ -1,6 +1,8 @@
-FUCK: this project, like that infamous administration, might not be EOL'd.
+=== 3.0.2 / 2024-11-06
 
-Shall we start a betting pool?
+* 1 bug fix:
+
+  * What the actual fuck? How is this project still "relevant"?
 
 === 3.0.1 / 2023-09-27
 
