@@ -2,7 +2,7 @@ require "minitest"
 
 module Minitest
   class Trump
-    VERSION = "3.0.2"
+    VERSION = "3.0.3"
   end
 
   class Assertion
